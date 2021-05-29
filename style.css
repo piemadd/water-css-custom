@@ -22,6 +22,24 @@ body {
 	position: relative;
 }
 
+.urlbox {
+	width: 80%;
+	max-width: 700px;
+}
+
+.contentbox {
+	height: 85vh;
+	position: relative;
+}
+
+.contentbox div {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
 .replit {
     position: absolute;
 	top: -15px;
@@ -32,6 +50,15 @@ body {
 
 .replit img {
 	width: 50px;
+}
+
+.footer-special {
+	width: 100%;
+	height: 8%;
+	min-height: 90px;
+	position: absolute;
+	bottom: 0px; 
+	left: 0px; 
 }
 
 :root {
