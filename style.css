@@ -65,12 +65,12 @@ body {
 	--background-body: #000000;
 	--background: rgba(255, 255, 255, .1);
 	--background-alt: rgba(255, 255, 255, .05);
-	--selection: #1c76c5;
+	--selection: rgba(255, 255, 255, .3);
 	--text-main: #dbdbdb;
 	--text-bright: #fff;
 	--text-muted: #a9b1ba;
 	--links: #41adff;
-	--focus: #0096bfab;
+	--focus: #dbdbdb;
 	--border: #526980;
 	--code: #ffbe85;
 	--animation-duration: 0.1s;
