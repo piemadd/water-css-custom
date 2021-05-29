@@ -63,8 +63,8 @@ body {
 
 :root {
 	--background-body: #000000;
-	--background: rgba(255, 255, 255, .1);
-	--background-alt: rgba(255, 255, 255, .05);
+	--background: rgba(255, 255, 255, .05);
+	--background-alt: rgba(255, 255, 255, .025);
 	--selection: rgba(255, 255, 255, .3);
 	--text-main: #dbdbdb;
 	--text-bright: #fff;
